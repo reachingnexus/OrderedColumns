@@ -2,6 +2,7 @@
 .half>a{width:50%;}
 .third>a{width:33%;}
 .quarter>a{width:25%;}
+.fifth>a{width:20%;}
 h1,h2{margin:1em 0 .25em 0; width:100%; float:left;}
 div{margin:0; width:100%;}
 div:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
